@@ -1,0 +1,3 @@
+[submodule "slop-rewrite"]
+	path = slop-rewrite
+	url = https://github.com/byungjunjang/slop-rewrite.git
